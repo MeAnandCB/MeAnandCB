@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="855" height="217" viewBox="0 0 855 217">
-<style>text{font:11px Menlo,Consolas,monospace;fill:#8b949e}.b{opacity:0;animation:in .5s ease-out forwards}@keyframes in{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}</style>
-<rect width="855" height="217" rx="8" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="855" height="347" viewBox="0 0 855 347">
+<style>text{font:11px Menlo,Consolas,monospace;fill:#8b949e}.b{opacity:0;animation:in .5s ease-out forwards}@keyframes in{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}.g{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:up .7s cubic-bezier(.2,.8,.2,1) forwards}@keyframes up{to{transform:scaleY(1)}}</style>
+<rect width="855" height="347" rx="8" fill="#0d1117" stroke="#30363d"/>
 <text x="40" y="42">Oct</text>
 <rect class="b" x="40" y="52" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:0.000s"><title>0 on 2025-10-05</title></rect>
 <rect class="b" x="40" y="67" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:0.025s"><title>0 on 2025-10-06</title></rect>
@@ -384,13 +384,61 @@
 <text x="8" y="77">Mon</text>
 <text x="8" y="107">Wed</text>
 <text x="8" y="137">Fri</text>
-<text x="40" y="185" style="fill:#c9d1d9">368 contributions in the last year · longest streak 6d</text>
-<text x="675" y="185">Less</text>
-<rect x="709" y="175" width="12" height="12" rx="3" fill="#161b22"/>
-<rect x="724" y="175" width="12" height="12" rx="3" fill="#0e4429"/>
-<rect x="739" y="175" width="12" height="12" rx="3" fill="#006d32"/>
-<rect x="754" y="175" width="12" height="12" rx="3" fill="#26a641"/>
-<rect x="769" y="175" width="12" height="12" rx="3" fill="#39d353"/>
-<rect x="784" y="175" width="12" height="12" rx="3" fill="#69f0a0"/>
-<text x="803" y="185">More</text>
+<text x="675" y="181">Less</text>
+<rect x="709" y="171" width="12" height="12" rx="3" fill="#161b22"/>
+<rect x="724" y="171" width="12" height="12" rx="3" fill="#0e4429"/>
+<rect x="739" y="171" width="12" height="12" rx="3" fill="#006d32"/>
+<rect x="754" y="171" width="12" height="12" rx="3" fill="#26a641"/>
+<rect x="769" y="171" width="12" height="12" rx="3" fill="#39d353"/>
+<rect x="784" y="171" width="12" height="12" rx="3" fill="#69f0a0"/>
+<text x="803" y="181">More</text>
+<rect x="818" y="65" width="16" height="16" rx="4" fill="none" stroke="#69f0a0"><animate attributeName="opacity" values="1;0.1;1" dur="2s" repeatCount="indefinite"/></rect>
+<g class="b" style="animation-delay:1.20s"><text x="40" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">368</text><text x="40" y="233" style="font-size:10px">contributions / year</text></g>
+<g class="b" style="animation-delay:1.30s"><text x="170" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">1d</text><text x="170" y="233" style="font-size:10px">current streak</text></g>
+<g class="b" style="animation-delay:1.40s"><text x="300" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">6d</text><text x="300" y="233" style="font-size:10px">longest streak</text></g>
+<g class="b" style="animation-delay:1.50s"><text x="430" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">26</text><text x="430" y="233" style="font-size:10px">best day · 05-26</text></g>
+<g class="b" style="animation-delay:1.60s"><text x="560" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">Jan 2026</text><text x="560" y="233" style="font-size:10px">busiest month · 56</text></g>
+<g class="b" style="animation-delay:1.70s"><text x="690" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">19%</text><text x="690" y="233" style="font-size:10px">active days · 68</text></g>
+<text x="40" y="253" style="fill:#58a6ff">weekday activity</text>
+<rect class="g" style="animation-delay:1.60s" x="40" y="307" width="22" height="4" rx="2" fill="#26a641"><title>S: 9</title></rect>
+<text x="51.0" y="324" text-anchor="middle" style="font-size:9px">S</text>
+<rect class="g" style="animation-delay:1.66s" x="70" y="288" width="22" height="23" rx="2" fill="#26a641"><title>M: 50</title></rect>
+<text x="81.0" y="324" text-anchor="middle" style="font-size:9px">M</text>
+<rect class="g" style="animation-delay:1.72s" x="100" y="261" width="22" height="50" rx="2" fill="#26a641"><title>T: 108</title></rect>
+<text x="111.0" y="324" text-anchor="middle" style="font-size:9px">T</text>
+<rect class="g" style="animation-delay:1.78s" x="130" y="280" width="22" height="31" rx="2" fill="#26a641"><title>W: 67</title></rect>
+<text x="141.0" y="324" text-anchor="middle" style="font-size:9px">W</text>
+<rect class="g" style="animation-delay:1.84s" x="160" y="284" width="22" height="27" rx="2" fill="#26a641"><title>T: 59</title></rect>
+<text x="171.0" y="324" text-anchor="middle" style="font-size:9px">T</text>
+<rect class="g" style="animation-delay:1.90s" x="190" y="287" width="22" height="24" rx="2" fill="#26a641"><title>F: 51</title></rect>
+<text x="201.0" y="324" text-anchor="middle" style="font-size:9px">F</text>
+<rect class="g" style="animation-delay:1.96s" x="220" y="300" width="22" height="11" rx="2" fill="#26a641"><title>S: 24</title></rect>
+<text x="231.0" y="324" text-anchor="middle" style="font-size:9px">S</text>
+<text x="340" y="253" style="fill:#58a6ff">contributions per month</text>
+<rect class="g" style="animation-delay:1.80s" x="340" y="309" width="22" height="2" rx="2" fill="#26a641"><title>O: 0</title></rect>
+<text x="351.0" y="324" text-anchor="middle" style="font-size:9px">O</text>
+<rect class="g" style="animation-delay:1.86s" x="370" y="285" width="22" height="26" rx="2" fill="#26a641"><title>N: 29</title></rect>
+<text x="381.0" y="324" text-anchor="middle" style="font-size:9px">N</text>
+<rect class="g" style="animation-delay:1.92s" x="400" y="283" width="22" height="28" rx="2" fill="#26a641"><title>D: 31</title></rect>
+<text x="411.0" y="324" text-anchor="middle" style="font-size:9px">D</text>
+<rect class="g" style="animation-delay:1.98s" x="430" y="261" width="22" height="50" rx="2" fill="#26a641"><title>J: 56</title></rect>
+<text x="441.0" y="324" text-anchor="middle" style="font-size:9px">J</text>
+<rect class="g" style="animation-delay:2.04s" x="460" y="289" width="22" height="22" rx="2" fill="#26a641"><title>F: 25</title></rect>
+<text x="471.0" y="324" text-anchor="middle" style="font-size:9px">F</text>
+<rect class="g" style="animation-delay:2.10s" x="490" y="270" width="22" height="41" rx="2" fill="#26a641"><title>M: 46</title></rect>
+<text x="501.0" y="324" text-anchor="middle" style="font-size:9px">M</text>
+<rect class="g" style="animation-delay:2.16s" x="520" y="277" width="22" height="34" rx="2" fill="#26a641"><title>A: 38</title></rect>
+<text x="531.0" y="324" text-anchor="middle" style="font-size:9px">A</text>
+<rect class="g" style="animation-delay:2.22s" x="550" y="286" width="22" height="25" rx="2" fill="#26a641"><title>M: 28</title></rect>
+<text x="561.0" y="324" text-anchor="middle" style="font-size:9px">M</text>
+<rect class="g" style="animation-delay:2.28s" x="580" y="275" width="22" height="36" rx="2" fill="#26a641"><title>J: 40</title></rect>
+<text x="591.0" y="324" text-anchor="middle" style="font-size:9px">J</text>
+<rect class="g" style="animation-delay:2.34s" x="610" y="261" width="22" height="50" rx="2" fill="#26a641"><title>J: 56</title></rect>
+<text x="621.0" y="324" text-anchor="middle" style="font-size:9px">J</text>
+<rect class="g" style="animation-delay:2.40s" x="640" y="309" width="22" height="2" rx="2" fill="#26a641"><title>A: 2</title></rect>
+<text x="651.0" y="324" text-anchor="middle" style="font-size:9px">A</text>
+<rect class="g" style="animation-delay:2.46s" x="670" y="298" width="22" height="12" rx="2" fill="#26a641"><title>S: 14</title></rect>
+<text x="681.0" y="324" text-anchor="middle" style="font-size:9px">S</text>
+<rect class="g" style="animation-delay:2.52s" x="700" y="308" width="22" height="3" rx="2" fill="#26a641"><title>O: 3</title></rect>
+<text x="711.0" y="324" text-anchor="middle" style="font-size:9px">O</text>
 </svg>

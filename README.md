@@ -5,6 +5,11 @@
 
 <br><br>
 
+<h3><code>anand@github ~ $ gh stats</code></h3>
+<img src="./stats-card.svg" width="860" />
+
+<br><br>
+
 <h3><code>anand@github ~ $ whoami</code></h3>
 <table>
   <tr>

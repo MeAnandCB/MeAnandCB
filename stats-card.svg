@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="270" viewBox="0 0 860 270">
+<style>text{font:12px Menlo,Consolas,monospace;fill:#8b949e}.v{font-size:22px;font-weight:bold;fill:#c9d1d9}.h{fill:#58a6ff;font-weight:bold}.a{opacity:0;animation:in .5s ease-out forwards}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}.bar{transform-origin:0 0;transform:scaleX(0);animation:grow .9s cubic-bezier(.2,.8,.2,1) forwards}@keyframes grow{to{transform:scaleX(1)}}</style>
+<rect width="860" height="270" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="34" class="h">$ gh stats</text>
+<g class="a" style="animation-delay:0.20s"><text x="28" y="70" class="v">109</text><text x="28" y="88">Repos</text></g>
+<g class="a" style="animation-delay:0.30s"><text x="158" y="70" class="v">53</text><text x="158" y="88">Followers</text></g>
+<g class="a" style="animation-delay:0.40s"><text x="28" y="128" class="v">16</text><text x="28" y="146">Following</text></g>
+<g class="a" style="animation-delay:0.50s"><text x="158" y="128" class="v">5</text><text x="158" y="146">Stars</text></g>
+<g class="a" style="animation-delay:0.60s"><text x="28" y="186" class="v">4</text><text x="28" y="204">Forks</text></g>
+<g class="a" style="animation-delay:0.70s"><text x="158" y="186" class="v">4.0</text><text x="158" y="204">Years on GitHub</text></g>
+<text x="320" y="34" class="h">$ top-languages</text>
+<text x="320" y="73" style="fill:#c9d1d9">C++</text>
+<rect x="408" y="62" width="190" height="14" rx="4" fill="#161b22"/>
+<rect class="bar" x="408" y="62" width="190" height="14" rx="4" fill="#f34b7d" style="animation-delay:0.40s"/>
+<text x="606" y="73">22</text>
+<text x="320" y="103" style="fill:#c9d1d9">Dart</text>
+<rect x="408" y="92" width="190" height="14" rx="4" fill="#161b22"/>
+<rect class="bar" x="408" y="92" width="147" height="14" rx="4" fill="#00b4ab" style="animation-delay:0.52s"/>
+<text x="606" y="103">17</text>
+<text x="320" y="133" style="fill:#c9d1d9">HTML</text>
+<rect x="408" y="122" width="190" height="14" rx="4" fill="#161b22"/>
+<rect class="bar" x="408" y="122" width="112" height="14" rx="4" fill="#e34c26" style="animation-delay:0.64s"/>
+<text x="606" y="133">13</text>
+<text x="320" y="163" style="fill:#c9d1d9">JavaScript</text>
+<rect x="408" y="152" width="190" height="14" rx="4" fill="#161b22"/>
+<rect class="bar" x="408" y="152" width="17" height="14" rx="4" fill="#f1e05a" style="animation-delay:0.76s"/>
+<text x="606" y="163">2</text>
+<text x="320" y="193" style="fill:#c9d1d9">CSS</text>
+<rect x="408" y="182" width="190" height="14" rx="4" fill="#161b22"/>
+<rect class="bar" x="408" y="182" width="17" height="14" rx="4" fill="#563d7c" style="animation-delay:0.88s"/>
+<text x="606" y="193">2</text>
+<text x="320" y="223" style="fill:#c9d1d9">Python</text>
+<rect x="408" y="212" width="190" height="14" rx="4" fill="#161b22"/>
+<rect class="bar" x="408" y="212" width="9" height="14" rx="4" fill="#3572a5" style="animation-delay:1.00s"/>
+<text x="606" y="223">1</text>
+<text x="640" y="34" class="h">$ ls -t recent/</text>
+<g class="a" style="animation-delay:0.50s"><circle cx="645" cy="62" r="5" fill="#3572a5"/><text x="658" y="66" style="fill:#c9d1d9">MeAnandCB</text><text x="658" y="80" style="font-size:10px">Python · 2026-10-06</text></g>
+<g class="a" style="animation-delay:0.62s"><circle cx="645" cy="96" r="5" fill="#f1e05a"/><text x="658" y="100" style="fill:#c9d1d9">college-event</text><text x="658" y="114" style="font-size:10px">JavaScript · 2026-10-05</text></g>
+<g class="a" style="animation-delay:0.74s"><circle cx="645" cy="130" r="5" fill="#8b949e"/><text x="658" y="134" style="fill:#c9d1d9">Aamir</text><text x="658" y="148" style="font-size:10px">— · 2026-09-30</text></g>
+<g class="a" style="animation-delay:0.86s"><circle cx="645" cy="164" r="5" fill="#8b949e"/><text x="658" y="168" style="fill:#c9d1d9">git</text><text x="658" y="182" style="font-size:10px">— · 2026-09-30</text></g>
+<g class="a" style="animation-delay:0.98s"><circle cx="645" cy="198" r="5" fill="#00b4ab"/><text x="658" y="202" style="fill:#c9d1d9">luminar_std_app</text><text x="658" y="216" style="font-size:10px">Dart · 2026-09-11</text></g>
+<text x="28" y="254" style="font-size:10px">C++ is GitHub's label for the native side of Flutter apps</text>
+</svg>

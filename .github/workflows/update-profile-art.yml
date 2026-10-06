@@ -20,8 +20,13 @@ jobs:
           python-version: "3.11"
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/fetch_contributions.py
+      - run: python scripts/fetch_profile.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: python scripts/render_heatmap_svg.py
+      - run: python scripts/make_stats_svg.py
+      - run: python scripts/make_info_card.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: refresh profile art [skip ci]"
+          file_pattern: "data/*.json contrib-heatmap.svg stats-card.svg info-card.svg"
