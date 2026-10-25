@@ -1,8 +1,8 @@
 {
  "user": "MeAnandCB",
- "total": 388,
- "current_streak": 19,
- "longest_streak": 19,
+ "total": 389,
+ "current_streak": 20,
+ "longest_streak": 20,
  "best_day": {
   "date": "2026-05-26",
   "level": 4,
@@ -21,44 +21,9 @@
   "2026-07": 56,
   "2026-08": 2,
   "2026-09": 14,
-  "2026-10": 23
+  "2026-10": 24
  },
  "days": [
-  {
-   "date": "2025-10-19",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-20",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-21",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-22",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-23",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-24",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-25",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-10-26",
    "level": 0,
@@ -1876,6 +1841,11 @@
   },
   {
    "date": "2026-10-24",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-10-25",
    "level": 0,
    "count": 0
   }
