@@ -378,7 +378,8 @@
 <rect class="b" x="805" y="112" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.375s"><title>1 on 2026-10-22</title></rect>
 <rect class="b" x="805" y="127" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.400s"><title>1 on 2026-10-23</title></rect>
 <rect class="b" x="805" y="142" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.425s"><title>1 on 2026-10-24</title></rect>
-<rect class="b" x="820" y="52" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.300s"><title>0 on 2026-10-25</title></rect>
+<rect class="b" x="820" y="52" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.300s"><title>1 on 2026-10-25</title></rect>
+<rect class="b" x="820" y="67" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.325s"><title>0 on 2026-10-26</title></rect>
 <text x="8" y="77">Mon</text>
 <text x="8" y="107">Wed</text>
 <text x="8" y="137">Fri</text>
@@ -390,15 +391,15 @@
 <rect x="769" y="171" width="12" height="12" rx="3" fill="#39d353"/>
 <rect x="784" y="171" width="12" height="12" rx="3" fill="#69f0a0"/>
 <text x="803" y="181">More</text>
-<rect x="803" y="140" width="16" height="16" rx="4" fill="none" stroke="#69f0a0"><animate attributeName="opacity" values="1;0.1;1" dur="2s" repeatCount="indefinite"/></rect>
-<g class="b" style="animation-delay:1.20s"><text x="40" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">389</text><text x="40" y="233" style="font-size:10px">contributions / year</text></g>
-<g class="b" style="animation-delay:1.30s"><text x="170" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">20d</text><text x="170" y="233" style="font-size:10px">current streak</text></g>
-<g class="b" style="animation-delay:1.40s"><text x="300" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">20d</text><text x="300" y="233" style="font-size:10px">longest streak</text></g>
+<rect x="818" y="50" width="16" height="16" rx="4" fill="none" stroke="#69f0a0"><animate attributeName="opacity" values="1;0.1;1" dur="2s" repeatCount="indefinite"/></rect>
+<g class="b" style="animation-delay:1.20s"><text x="40" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">390</text><text x="40" y="233" style="font-size:10px">contributions / year</text></g>
+<g class="b" style="animation-delay:1.30s"><text x="170" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">21d</text><text x="170" y="233" style="font-size:10px">current streak</text></g>
+<g class="b" style="animation-delay:1.40s"><text x="300" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">21d</text><text x="300" y="233" style="font-size:10px">longest streak</text></g>
 <g class="b" style="animation-delay:1.50s"><text x="430" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">26</text><text x="430" y="233" style="font-size:10px">best day · 05-26</text></g>
 <g class="b" style="animation-delay:1.60s"><text x="560" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">Jan 2026</text><text x="560" y="233" style="font-size:10px">busiest month · 56</text></g>
-<g class="b" style="animation-delay:1.70s"><text x="690" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">24%</text><text x="690" y="233" style="font-size:10px">active days · 87</text></g>
+<g class="b" style="animation-delay:1.70s"><text x="690" y="217" style="font-size:20px;font-weight:bold;fill:#c9d1d9">24%</text><text x="690" y="233" style="font-size:10px">active days · 88</text></g>
 <text x="40" y="253" style="fill:#58a6ff">weekday activity</text>
-<rect class="g" style="animation-delay:1.60s" x="40" y="306" width="22" height="5" rx="2" fill="#26a641"><title>S: 11</title></rect>
+<rect class="g" style="animation-delay:1.60s" x="40" y="306" width="22" height="5" rx="2" fill="#26a641"><title>S: 12</title></rect>
 <text x="51.0" y="324" text-anchor="middle" style="font-size:9px">S</text>
 <rect class="g" style="animation-delay:1.66s" x="70" y="288" width="22" height="23" rx="2" fill="#26a641"><title>M: 52</title></rect>
 <text x="81.0" y="324" text-anchor="middle" style="font-size:9px">M</text>
@@ -437,6 +438,6 @@
 <text x="651.0" y="324" text-anchor="middle" style="font-size:9px">A</text>
 <rect class="g" style="animation-delay:2.46s" x="670" y="298" width="22" height="12" rx="2" fill="#26a641"><title>S: 14</title></rect>
 <text x="681.0" y="324" text-anchor="middle" style="font-size:9px">S</text>
-<rect class="g" style="animation-delay:2.52s" x="700" y="290" width="22" height="21" rx="2" fill="#26a641"><title>O: 24</title></rect>
+<rect class="g" style="animation-delay:2.52s" x="700" y="289" width="22" height="22" rx="2" fill="#26a641"><title>O: 25</title></rect>
 <text x="711.0" y="324" text-anchor="middle" style="font-size:9px">O</text>
 </svg>
