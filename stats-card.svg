@@ -7,7 +7,7 @@
 <g class="a" style="animation-delay:0.40s"><text x="28" y="128" class="v">16</text><text x="28" y="146">Following</text></g>
 <g class="a" style="animation-delay:0.50s"><text x="158" y="128" class="v">5</text><text x="158" y="146">Stars</text></g>
 <g class="a" style="animation-delay:0.60s"><text x="28" y="186" class="v">4</text><text x="28" y="204">Forks</text></g>
-<g class="a" style="animation-delay:0.70s"><text x="158" y="186" class="v">4.0</text><text x="158" y="204">Years on GitHub</text></g>
+<g class="a" style="animation-delay:0.70s"><text x="158" y="186" class="v">4.1</text><text x="158" y="204">Years on GitHub</text></g>
 <text x="320" y="34" class="h">$ top-languages</text>
 <text x="320" y="73" style="fill:#c9d1d9">C++</text>
 <rect x="408" y="62" width="190" height="14" rx="4" fill="#161b22"/>
@@ -34,7 +34,7 @@
 <rect class="bar" x="408" y="212" width="9" height="14" rx="4" fill="#3572a5" style="animation-delay:1.00s"/>
 <text x="606" y="223">1</text>
 <text x="640" y="34" class="h">$ ls -t recent/</text>
-<g class="a" style="animation-delay:0.50s"><circle cx="645" cy="62" r="5" fill="#3572a5"/><text x="658" y="66" style="fill:#c9d1d9">MeAnandCB</text><text x="658" y="80" style="font-size:10px">Python · 2026-10-28</text></g>
+<g class="a" style="animation-delay:0.50s"><circle cx="645" cy="62" r="5" fill="#3572a5"/><text x="658" y="66" style="fill:#c9d1d9">MeAnandCB</text><text x="658" y="80" style="font-size:10px">Python · 2026-10-29</text></g>
 <g class="a" style="animation-delay:0.62s"><circle cx="645" cy="96" r="5" fill="#00b4ab"/><text x="658" y="100" style="fill:#c9d1d9">luminar_std_app</text><text x="658" y="114" style="font-size:10px">Dart · 2026-10-17</text></g>
 <g class="a" style="animation-delay:0.74s"><circle cx="645" cy="130" r="5" fill="#f1e05a"/><text x="658" y="134" style="fill:#c9d1d9">college-event</text><text x="658" y="148" style="font-size:10px">JavaScript · 2026-10-05</text></g>
 <g class="a" style="animation-delay:0.86s"><circle cx="645" cy="164" r="5" fill="#8b949e"/><text x="658" y="168" style="fill:#c9d1d9">Aamir</text><text x="658" y="182" style="font-size:10px">— · 2026-09-30</text></g>
