@@ -2,7 +2,7 @@
  "name": "ANAND CB",
  "bio": "Flutter Developer",
  "location": "Kerala, India",
- "repos": 110,
+ "repos": 111,
  "followers": 53,
  "following": 16,
  "created_at": "2022-10-11T06:18:42Z",
@@ -15,7 +15,7 @@
   ],
   [
    "Dart",
-   16
+   15
   ],
   [
    "HTML",
@@ -23,7 +23,7 @@
   ],
   [
    "JavaScript",
-   2
+   3
   ],
   [
    "CSS",
@@ -36,9 +36,19 @@
  ],
  "recent": [
   {
+   "name": "luminar_std_app",
+   "language": "Dart",
+   "pushed_at": "2026-11-17T11:25:42Z"
+  },
+  {
+   "name": "Stock_any",
+   "language": "JavaScript",
+   "pushed_at": "2026-11-17T03:27:24Z"
+  },
+  {
    "name": "MeAnandCB",
    "language": "Python",
-   "pushed_at": "2026-11-15T14:02:12Z"
+   "pushed_at": "2026-11-16T15:58:23Z"
   },
   {
    "name": "LuminarGame",
@@ -46,19 +56,9 @@
    "pushed_at": "2026-10-27T06:47:11Z"
   },
   {
-   "name": "luminar_std_app",
-   "language": "Dart",
-   "pushed_at": "2026-10-17T04:22:54Z"
-  },
-  {
    "name": "college-event",
    "language": "JavaScript",
    "pushed_at": "2026-10-05T09:19:10Z"
-  },
-  {
-   "name": "Aamir",
-   "language": null,
-   "pushed_at": "2026-09-30T07:26:09Z"
   }
  ]
 }
